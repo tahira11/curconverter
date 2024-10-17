@@ -8,7 +8,9 @@ exchange_rates = {
     "EUR": 0.9,
     "GBP": 0.8,
     "JPY": 140.0,
-    "BTC": 30000.0,  # Example Bitcoin rate
+    "BTC": 30000.0,  
+    "PKR": 278.48
+    # Example Bitcoin rate
     # Add more currencies and rates
 }
 
